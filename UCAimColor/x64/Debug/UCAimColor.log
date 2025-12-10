@@ -1,0 +1,88 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (UCAimColor.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Custom.cpp
+  Driver.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(1986,50): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(1988,50): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(6873,47): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(6875,47): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(6883,48): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(6885,48): warning C4244: '-=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(3620,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+      C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(3620,22):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ImGui\imgui_widgets.cpp(3635,74):
+          Vea la referencia a la creación de una instancia de la función plantilla "bool ImGui::SliderBehaviorT2<ImS32,ImS32,float>(const ImRect &,ImGuiID,ImGuiDataType,TYPE *,const TYPE,const TYPE,const char *,ImGuiSliderFlags,ImRect *,int *)" que se está compilando
+          with
+          [
+              TYPE=ImS32
+          ]
+  
+  main.cpp
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\Config.hpp(22,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\Aimbot.hpp(49,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(30,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(38,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(41,42): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(44,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(49,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(141,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(141,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(168,32): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(169,28): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(188,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(251,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(251,33): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(304,85): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\ColorSorter.hpp(304,58): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\main.cpp(53,32): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\main.cpp(172,36): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  MenuRender.cpp
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\Config.hpp(22,29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "MenuRender.cpp")
+  
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\MenuRender.cpp(130,10): warning C4244: 'return': conversión de 'LRESULT' a 'long'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\MenuRender.cpp(134,24): warning C4244: 'return': conversión de 'LRESULT' a 'long'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\MenuRender.cpp(1126,43): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\UCAimColor\MenuRender.cpp(1166,43): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  stb_image_impl.cpp
+  Generando código...
+  UCAimColor.vcxproj -> C:\Users\OWNER\Music\UCColor_[unknowncheats.me]_\UCColor\x64\Debug\hack jheremy free.exe
